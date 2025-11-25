@@ -1,3 +1,6 @@
+# Bazowe repo
+https://github.com/agh-cs-ai/sztuczna-inteligencja
+
 # Spis treści
 
 * [Regresja liniowa i logistyczna](lab1/Readme.md)
